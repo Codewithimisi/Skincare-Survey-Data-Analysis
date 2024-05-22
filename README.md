@@ -20,12 +20,9 @@ The primary objectives of this data collection are:
 The dataset used for this analysis was gotten from [kaggle](https://www.kaggle.com/datasets/nurunnz/skincare-survey-among-malaysian-2021)
 
 ## Dataset Exploration
-The dataset comprises 31 attributes and 76 records. For clarity and ease of analysis, the data was cleaned using Excel and
-Power Query. Additional files were also created to isolate specific attributes such as 
-purchase location, product selection approach, skin problems, and preferred product ingredients.
-
+The dataset comprises 31 attributes and 76 records. For clarity and ease of analysis, the attributes were modified, and additional files were created to isolate specific attributes such as purchase location, product selection approach, skin problems, and preferred product ingredients. This was done using Excel.
 ## Tools
-- Excel and Power Query: Used for cleaning
+- Excel: Used for cleaning
 - MySQL: Used for analysis
 - PowerBi: Used for data visualization
 
@@ -123,7 +120,6 @@ Allergic reactions to new products vary, with some respondents experiencing them
 Common purchase locations include the internet, malls, and pharmacies.
 Most respondents spend RM 20 to RM 40 on skincare each month.
 Natural ingredients are the most preferred among respondents.
-Most of the respondents spend RM 20 TO RM 40 on skincare in a month.
 There is a high willingness among respondents to try different skincare products.
 </details>
 
