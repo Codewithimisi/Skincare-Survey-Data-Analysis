@@ -7,8 +7,8 @@ will identify common skin problems, purchasing behaviors, and challenges faced b
 the awareness and willingness to adopt an AI Face Scanner app for personalized skincare routines. 
 
 ## Project Resources
-[MySQL Code Analysis](https://github.com/Codewithimisi/Skincare-Survey-Data-Analysis/blob/main/SQL%20Code%20Analysis.sql)
-[PowerBi Dashboard](https://app.powerbi.com/links/84-FMHQKS6?ctid=b1a9df48-7114-4055-9473-b443a59687db&pbi_source=linkShare)
+- [MySQL Code Analysis](https://github.com/Codewithimisi/Skincare-Survey-Data-Analysis/blob/main/SQL%20Code%20Analysis.sql)
+- [PowerBi Dashboard](https://app.powerbi.com/links/84-FMHQKS6?ctid=b1a9df48-7114-4055-9473-b443a59687db&pbi_source=linkShare)
 
 ## Objectives
 The primary objectives of this data collection are:
