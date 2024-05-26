@@ -21,9 +21,9 @@ The primary objectives of this data collection are:
 The dataset used for this analysis was gotten from [kaggle](https://www.kaggle.com/datasets/nurunnz/skincare-survey-among-malaysian-2021).
 
 ## Dataset Exploration
-The dataset comprises 31 attributes and 76 records. For clarity and ease of analysis, the attributes were modified, and additional files were created to isolate specific attributes such as purchase location, product selection approach, skin problems, and preferred product ingredients. This was done using Excel.
+The dataset comprises 31 attributes and 76 records. For clarity and ease of analysis, the attributes were modified, and additional files were created to isolate specific attributes such as purchase location, product selection approach, skin problems, and preferred product ingredients. This was done using Excel and Power Query.
 ## Tools
-- Excel: Used for cleaning
+- Excel and Power Query: Used for cleaning
 - MySQL: Used for analysis
 - PowerBi: Used for data visualization
 
